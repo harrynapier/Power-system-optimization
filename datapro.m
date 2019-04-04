@@ -1,3 +1,4 @@
+% code for managing the results of a series of optimization for comparisons sake
 function out = datapro(fm11,fm12,fm13,fm14,fm21,fm22,fm23,fm24,fc11,fc12,fc13,fc14,fc21,fc22,fc23,fc24,fd11,fd12,fd13,fd14,fd21,fd22,fd23,fd24,fv11,fv12,fv13,fv14,fv21,fv22,fv23,fv24,w)
 out=0;
 
